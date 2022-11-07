@@ -1,0 +1,14 @@
+.bg-dark {
+    background-color: rgb(37, 38, 39);
+    color: white;
+}
+div {
+    margin-bottom:15px;
+}
+em {
+    color:rgb(212, 28, 28)
+}
+
+.cancel-margin{
+    margin:2px;
+}
