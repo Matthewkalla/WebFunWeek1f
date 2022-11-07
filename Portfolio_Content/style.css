@@ -1,0 +1,38 @@
+.bg-dark{
+    background-color: rgb(41, 39, 39);
+    color: rgb(245, 239, 239)
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    background-color:white;
+}
+.logo{
+    height: 20px;
+    width: 20px;
+}
+
+table, th, td {
+    border-bottom: 2px solid;
+    border-collapse: collapse;
+}
+
+
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.flexed{
+    display:flex;
+    vertical-align: top;
+}
+
+.margin{
+    margin-bottom: 10px;
+}
+
+#margin-right{
+    margin-right:3px;
+}
