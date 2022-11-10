@@ -1,0 +1,19 @@
+.container {
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: silver;
+    display: flex;
+    align-items: center;
+}
+    
+.col, .col-2 {
+    padding: 10px;
+    background-color: blanchedalmond;
+    font-size: 1.2rem;
+    flex: 1;
+}
+
+.col-2{
+    flex: 2;
+}

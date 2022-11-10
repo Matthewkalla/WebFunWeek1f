@@ -1,0 +1,44 @@
+.sweden{
+    background-color: #FECC02;
+    height: 200px;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.top{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.top-left {
+    background-color: #006AA7;
+    height: 80px;
+    width: 90px;
+}
+
+.top-right {
+    background-color: #006AA7;
+    height: 80px;
+    width: 170px;
+    
+}
+
+.bottom {
+    display:flex;
+    justify-content: space-between;
+}
+
+.bottom-left{
+    background-color: #006AA7;
+    height: 80px;
+    width: 90px;
+    
+}
+
+.bottom-right{
+    background-color: #006AA7;
+    height: 80px;
+    width: 170px;
+    
+}

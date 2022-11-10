@@ -1,0 +1,17 @@
+.black{
+    background-color: black;
+    height: 50px;
+    width: 200px;
+}
+
+.red{
+    background-color: #DD0000;
+    height: 50px;
+    width: 200px;
+}
+
+.yellow{
+    background-color: #FFCC00;
+    height: 50px;
+    width: 200px;
+}

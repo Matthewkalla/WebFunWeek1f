@@ -1,0 +1,48 @@
+.flag-top {
+    height:50;
+    display: flex;
+}
+
+.flag-bottom{
+    height:50px;
+    display: flex;
+}
+
+.blue-top{
+    width: 100px;
+    height: 75px;
+    background-color:blue;
+}
+.blue-bottom{
+    width: 100px;
+    height: 75px;
+    background-color:blue;
+}
+
+.red-top {
+    width: 100px;
+    height: 75px;
+    background-color: #CE1126;
+}
+.red-bottom {
+    width: 100px;
+    height: 75px;
+    background-color: #CE1126;
+}
+
+.white{
+    width: 30px;
+    height: 75px;
+    background-color: white;
+}
+
+.white-mid{
+    height: 30px;
+    background-color:white;
+}
+
+.arms{
+    height: 30px;
+    width: 30px;
+    margin-left: 100px;
+}
