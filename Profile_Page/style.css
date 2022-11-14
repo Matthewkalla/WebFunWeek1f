@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main{
+    margin: 30px 30px;
+}
+
+.navbar{
+    color: white;
+    background-color: black;
+    padding-right: 200px;
+    padding-left: 200px;
+    height: 60px;
+}
+
+.right-navbar{
+    width: 450px;
+}
+
+.navbar-links{
+    width: 450px;
+    flex: 1;
+}
+
+.sign-out{
+    height: 35px;
+    width: 80px;
+    margin-top: 12px;
+    background-color:rgb(57, 188, 231);
+    color: white;
+}
+
+.right-body{
+    margin-right: 5px;
+}
+
+.left-body{
+    margin-left: 30px;
+}
+
+.nodecoration{
+    text-decoration: none;
+}
+
+.noliststyle{
+    list-style: none;
+}
+
+
+.profile-page {
+    height: 300px;
+    width: 496px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.toprow {
+    height: 68px;
+    background-color: rgb(57, 188, 231);
+}
+
+.bottomrow {
+    background-color: white;
+    border-left: 3px solid rgb(172, 171, 171);
+    border-bottom: 3px solid rgb(172, 171, 171);
+    border-right: 3px solid rgb(172, 171, 171);
+    padding-left: 20px;
+    padding-top: 40px;
+    height: 190px;
+}
+.profile{
+    height: 68px;
+    width: 68px; 
+    margin-left: 20px;
+    margin-top: 35px;
+    box-shadow: 1px 1px 1px grey;
+    border-radius: 50%;
+    border: 2px white solid;
+}
+
+.map-marker{
+    height: 15px;
+    width: 10px;
+    display: inline-block
+    
+}
+
+h1{
+    margin-bottom: 5px;
+}
+
+
+.editprofile{
+    padding-top: 10px;
+    width: 100px;
+    height: 40px;
+}
+
+.gear{
+    height:15px;
+    width: 15px;
+}
+
+#titles{
+    width: 270px;
+    margin: 0;
+}
+
+#locationid{
+    margin-bottom: 10px;
+}
+
+.contentheader-right{
+    background-color: rgb(53, 52, 52);
+    color: white;
+    height: 30px;
+    padding-top: 10px;
+    width: 476px;
+    padding-left: 20px;
+}
+
+.contentheader-left{
+    background-color: rgb(53, 52, 52);
+    color: white;
+    height: 30px;
+    width: 190px;
+    padding: 10px 20px;
+}
+
+.education{
+    background-color: white;
+    height: 700px;
+    width: 496px;
+    
+}
+
+.ed-content{
+    border-left: 3px solid rgb(172, 171, 171);
+    border-bottom: 3px solid rgb(172, 171, 171);
+    border-right: 3px solid rgb(172, 171, 171);
+    padding: 20px;
+}
+
+.flexed{
+    display: flex;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.lighten{
+    color:rgb(172, 171, 171);
+}
+
+.inline{
+    display: inline-block;
+}
+
+.center{
+    align-items: center;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.space-evenly{
+    justify-content: space-evenly;
+}
+
+.block{
+    display: block;
+}
+
+.wordmargin{
+    margin-bottom: 6px;
+}
+
+#margindate{
+    margin-bottom: 7px;
+}
+
+#connection-reqnum{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+
+#connections-amt{
+    height: 25px;
+    width: 50px;
+}
+
+.connection-req{
+    margin-bottom: 30px;
+}
+
+.connection-body{
+    border-left: 3px solid rgb(172, 171, 171);
+    border-bottom: 3px solid rgb(172, 171, 171);
+    border-right: 3px solid rgb(172, 171, 171);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+}
+
+
+.list-icon{
+    height: 25px;
+    width: 30px;
+    margin-top: 10px;
+}
+
+.names{
+    margin-top: 10px
+}
+
+.names-space{
+    margin-top: 15px;
+}
+
+.accept-deny{
+    padding-top: 10px;
+}
+
+.accept-deny-mod{
+    height: 25px;
+    width: 25px;
+}
+
+.top-pad{
+    padding-top: 9px;
+}
