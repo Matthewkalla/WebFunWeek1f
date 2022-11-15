@@ -7,15 +7,22 @@
 }
 
 .main{
-    margin: 30px 30px;
+    margin: 0px auto;
+    /* padding-right: 200px;
+    padding-left: 200px; */
+    width: 760px;
 }
 
 .navbar{
     color: white;
     background-color: black;
-    padding-right: 200px;
-    padding-left: 200px;
     height: 60px;
+    margin-bottom: 25px;
+}
+
+.inside-nav{
+    width: 760px;
+    margin: 0px auto;
 }
 
 .right-navbar{
@@ -36,11 +43,12 @@
 }
 
 .right-body{
-    margin-right: 5px;
+    flex: 3;
 }
 
 .left-body{
     margin-left: 30px;
+    flex: 2;
 }
 
 .nodecoration{
@@ -54,7 +62,6 @@
 
 .profile-page {
     height: 300px;
-    width: 496px;
     background-color: white;
     margin-bottom: 30px;
 }
@@ -128,7 +135,6 @@ h1{
     background-color: rgb(53, 52, 52);
     color: white;
     height: 30px;
-    width: 190px;
     padding: 10px 20px;
 }
 
