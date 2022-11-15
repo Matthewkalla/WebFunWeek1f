@@ -32,40 +32,11 @@ h3{
     width: 60px;
 }
 
-.shadow{
-    box-shadow: 2px 3px 2px black;
-}
-
-.border{
-    border: 3px solid black;
-}
-
-.flexed{
-    display: flex;
-}
-
-.even{
-    justify-content: space-evenly;
-}
-
-.center{
-    align-items: center;
-}
-
-.around{
-    justify-content: space-around;
-}
-
-
 .definition{
     width: 333px;
     height: 150px;
     padding: 10px;
     margin-bottom: 20px;
-}
-
-.between{
-    justify-content: space-between;
 }
 
 .definition-content{
@@ -91,4 +62,33 @@ h3{
     height: 40px;
     font-size: 1.2em;
     margin-top: 20px;
+}
+
+.shadow{
+    box-shadow: 2px 3px 2px black;
+}
+
+.border{
+    border: 3px solid black;
+}
+
+.flexed{
+    display: flex;
+}
+
+.even{
+    justify-content: space-evenly;
+}
+
+.center{
+    align-items: center;
+}
+
+.around{
+    justify-content: space-around;
+}
+
+
+.between{
+    justify-content: space-between;
 }
