@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+h3{
+    font-style: italic;
+}
+
+.main{
+    margin-left: 30px;
+    width: 600px;
+}
+
+.searchbar{
+    background-color: rgb(182, 186, 192);
+    height: 70px;
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+.input-search{
+    height: 20px;
+    width: 222px;
+}
+
+.login-button{
+    color: white;
+    background-color: rgb(40, 77, 212);
+    height: 30px;
+    width: 60px;
+}
+
+.shadow{
+    box-shadow: 2px 3px 2px black;
+}
+
+.border{
+    border: 3px solid black;
+}
+
+.flexed{
+    display: flex;
+}
+
+.even{
+    justify-content: space-evenly;
+}
+
+.center{
+    align-items: center;
+}
+
+.around{
+    justify-content: space-around;
+}
+
+
+.definition{
+    width: 333px;
+    height: 150px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.between{
+    justify-content: space-between;
+}
+
+.definition-content{
+    width: 200px;
+}
+
+.right-body{
+    width: 180px;
+    padding: 10px;
+    height: 130px;
+}
+
+.likebox{
+    background-color: rgb(239, 239, 93);
+    height: 30px;
+    width: 70px;
+    margin-top: 15px;
+}
+
+.add-definition{
+    background-color: rgb(32, 159, 32);
+    width: 160px;
+    height: 40px;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
